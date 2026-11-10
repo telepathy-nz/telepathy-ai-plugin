@@ -1,0 +1,17 @@
+{
+  "name": "telepathy-ai",
+  "description": "Telepathy AI plugins for Telepathy's clients",
+  "owner": { "name": "Telepathy Limited", "url": "https://telepathy.co.nz" },
+  "plugins": [
+    {
+      "name": "telepathy-ai",
+      "source": "./plugins/telepathy-ai",
+      "description": "Telepathy AI, your company's business assistant"
+    },
+    {
+      "name": "telepathy-ai-dev",
+      "source": "./plugins/telepathy-ai-dev",
+      "description": "Development build, for Telepathy's own testing"
+    }
+  ]
+}

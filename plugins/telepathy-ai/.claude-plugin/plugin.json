@@ -1,0 +1,8 @@
+{
+  "name": "telepathy-ai",
+  "displayName": "Telepathy AI",
+  "version": "0.1.0",
+  "description": "Telepathy AI, your company's business assistant: check in at the start of a conversation, pass on to-dos and decisions as you go, and ask about your projects and people. Telepathy keeps the company's picture of its work.",
+  "author": { "name": "Telepathy Limited", "url": "https://telepathy.co.nz" },
+  "license": "UNLICENSED"
+}

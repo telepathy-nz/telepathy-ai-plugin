@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "telepathy": {
+      "type": "http",
+      "url": "https://mcp.telepathy.co.nz/mcp"
+    }
+  }
+}
