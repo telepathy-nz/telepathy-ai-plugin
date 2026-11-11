@@ -4,5 +4,5 @@
   "version": "0.1.0",
   "description": "Development build of Telepathy AI for Telepathy's own testing. Same skill as the Telepathy AI plugin, connected to the development server.",
   "author": { "name": "Telepathy Limited", "url": "https://telepathy.co.nz" },
-  "license": "UNLICENSED"
+  "license": "SEE LICENSE IN LICENSE"
 }
