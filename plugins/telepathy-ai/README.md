@@ -1,6 +1,6 @@
-# Telepathy AI
+# Telepathy
 
-Telepathy AI is your company's business assistant. It keeps the picture of your work: projects, decisions, commitments and who is responsible for what.
+Telepathy is your company's business assistant. It keeps the picture of your work: projects, decisions, commitments and who is responsible for what.
 
 ## Use it
 

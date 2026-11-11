@@ -1,4 +1,4 @@
-# Telepathy AI plugin marketplace
+# Telepathy plugin marketplace
 
 Private Claude plugin marketplace for Telepathy's clients (plan 27, slice 6, in telepathy-automation).
 

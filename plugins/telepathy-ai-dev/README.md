@@ -1,8 +1,8 @@
-# Telepathy AI (dev)
+# Telepathy (dev)
 
-Development build for Telepathy's own testing, connected to the development server. Clients use the Telepathy AI plugin.
+Development build for Telepathy's own testing, connected to the development server. Clients use the Telepathy plugin.
 
-Telepathy AI is your company's business assistant. It keeps the picture of your work: projects, decisions, commitments and who is responsible for what.
+Telepathy is your company's business assistant. It keeps the picture of your work: projects, decisions, commitments and who is responsible for what.
 
 ## Use it
 
